@@ -1,0 +1,59 @@
+[
+  {
+    "ContainingType": "quanlydoan.Controllers.ChuyenNganhController",
+    "Method": "GetAll",
+    "RelativePath": "api/ChuyenNganh",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "quanlydoan.Controllers.ChuyenNganhController",
+    "Method": "GetByLoai",
+    "RelativePath": "api/ChuyenNganh/{maLoai}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maLoai",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "quanlydoan.Controllers.LoaiDeTaiController",
+    "Method": "GetLoaiDeTai",
+    "RelativePath": "api/LoaiDeTai",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "quanlydoan.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[quanlydoan.WeatherForecast, quanlydoan, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

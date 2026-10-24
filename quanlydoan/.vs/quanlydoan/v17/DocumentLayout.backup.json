@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\LaptrinhWeb-2026\\quanlydoan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|f:\\laptrinhweb-2026\\quanlydoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|f:\\laptrinhweb-2026\\quanlydoan\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|f:\\laptrinhweb-2026\\quanlydoan\\controllers\\quanlychuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|solutionrelative:controllers\\quanlychuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|f:\\laptrinhweb-2026\\quanlydoan\\models\\chuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|solutionrelative:models\\chuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|f:\\laptrinhweb-2026\\quanlydoan\\controllers\\quanlydoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|solutionrelative:controllers\\quanlydoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|f:\\laptrinhweb-2026\\quanlydoan\\models\\loaidetai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|solutionrelative:models\\loaidetai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|f:\\laptrinhweb-2026\\quanlydoan\\models\\quanlydoancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|solutionrelative:models\\quanlydoancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|f:\\laptrinhweb-2026\\quanlydoan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B208C65-47D6-407A-B3F6-44DA2E850561}|quanlydoan.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\LaptrinhWeb-2026\\quanlydoan\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\LaptrinhWeb-2026\\quanlydoan\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-24T07:24:51.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyChuyenNganh.cs",
+              "DocumentMoniker": "F:\\LaptrinhWeb-2026\\quanlydoan\\Controllers\\QuanLyChuyenNganh.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuanLyChuyenNganh.cs",
+              "ToolTip": "F:\\LaptrinhWeb-2026\\quanlydoan\\Controllers\\QuanLyChuyenNganh.cs",
+              "RelativeToolTip": "Controllers\\QuanLyChuyenNganh.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:39:56.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLyDoAn.cs",
+              "DocumentMoniker": "F:\\LaptrinhWeb-2026\\quanlydoan\\Controllers\\QuanLyDoAn.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuanLyDoAn.cs",
+              "ToolTip": "F:\\LaptrinhWeb-2026\\quanlydoan\\Controllers\\QuanLyDoAn.cs",
+              "RelativeToolTip": "Controllers\\QuanLyDoAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:38:54.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiDeTai.cs",
+              "DocumentMoniker": "F:\\LaptrinhWeb-2026\\quanlydoan\\Models\\LoaiDeTai.cs",
+              "RelativeDocumentMoniker": "Models\\LoaiDeTai.cs",
+              "ToolTip": "F:\\LaptrinhWeb-2026\\quanlydoan\\Models\\LoaiDeTai.cs",
+              "RelativeToolTip": "Models\\LoaiDeTai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:36:21.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChuyenNganh.cs",
+              "DocumentMoniker": "F:\\LaptrinhWeb-2026\\quanlydoan\\Models\\ChuyenNganh.cs",
+              "RelativeDocumentMoniker": "Models\\ChuyenNganh.cs",
+              "ToolTip": "F:\\LaptrinhWeb-2026\\quanlydoan\\Models\\ChuyenNganh.cs",
+              "RelativeToolTip": "Models\\ChuyenNganh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:36:17.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyDoAnContext.cs",
+              "DocumentMoniker": "F:\\LaptrinhWeb-2026\\quanlydoan\\Models\\QuanLyDoAnContext.cs",
+              "RelativeDocumentMoniker": "Models\\QuanLyDoAnContext.cs",
+              "ToolTip": "F:\\LaptrinhWeb-2026\\quanlydoan\\Models\\QuanLyDoAnContext.cs",
+              "RelativeToolTip": "Models\\QuanLyDoAnContext.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:36:12.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\LaptrinhWeb-2026\\quanlydoan\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\LaptrinhWeb-2026\\quanlydoan\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-24T06:26:51.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\LaptrinhWeb-2026\\quanlydoan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\LaptrinhWeb-2026\\quanlydoan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T06:26:50.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
